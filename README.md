@@ -1,7 +1,7 @@
 # React-Practice
 # Live-link: https://t86p26.csb.app/
 
-React practice-Challange:
+React practice-Challange-task:
 1. Apply CSS styles to App.jsx component
 to match the appearance on the completed app: https://t86p26.csb.app/
 2. Extract the contact card as a reusable Card component.
